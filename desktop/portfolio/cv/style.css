@@ -1,0 +1,109 @@
+.heading {
+	font-size: "100px";
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.intro {
+
+	background-color: #68c5c8;
+	/*#66cccc;*/
+	color: midnightblue;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.body {
+	font-family: Helvetica, Cambria;
+}
+.prof {
+	font-size: 15px;
+	font-weight: bold;
+}
+img {
+	float: right;
+}
+h3 {
+	padding-left: 15px;
+}
+.icon {
+	float: left;
+	padding-left: 4px;
+	margin-right: 25px;
+}
+.contactinfo {
+	font-size: 15px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #eeeeee;
+	margin-bottom: 20px;
+}
+.subheading {
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+	text-transform: uppercase;
+	padding-left: 10px;
+}
+.icon {
+	color: black;
+}
+.date {
+	color: midnightblue;
+	font-size: 14px;
+	font-weight: lighter;
+}
+.jobinfo {
+	font-weight: bold;
+}
+.jobtitle {
+	font-weight: bold;
+}
+.skill_name {
+	width: 7px;
+}
+.skill_per {
+	margin-right: 10px;
+}
+.skills ul li {
+	display: flex;
+	margin-bottom: 10px;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: -15px;
+}
+.skills ul li .skill_prog {
+	width: 10px;
+	height: 5px;
+	position: relative;
+}
+.skills ul li .skill_prog span {
+	position: absolute;
+	height: 10px;
+	padding: 0 0 0 0;
+}
+.jobdesc {
+	font-weight: lighter;
+}
+.socialmedia {
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.summary {
+	text-align: square;
+}
+.phone {
+	margin-left: 20px;
+	padding-left: 20px;
+}
+progress {
+	/*height: 10px; */
+	/*color: #003399;*/
+	/*background: #3fb6b2;*/
+	/*background: orange;*/
+	color: #68c5c8;
+}
+span {
+    padding-left:10px;
+}
